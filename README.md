@@ -23,7 +23,7 @@ English: [README.en.md](README.en.md)
 ```bash
 node -e "const{randomBytes:r}=require('node:crypto');console.log(r(32).toString('base64url'));console.log(r(32).toString('base64url'))"
 ```
-
+33
 第一行用于 `SUB_STORE_ADMIN_TOKEN`，第二行用于 `SUB_STORE_PUBLIC_DOWNLOAD_TOKEN`。不要使用 README、截图或示例里的固定字符串。
 
 ### 2. 点击 Deploy to Cloudflare
