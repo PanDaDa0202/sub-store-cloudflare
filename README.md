@@ -151,7 +151,7 @@ pnpm run dev
 ```text
 http://localhost:8787/?token=dev-admin-token
 ```
-
+redeploy
 ## 隐私与安全
 
 - 不要提交订阅 URL、节点 URI、Token、私有 D1 ID 或生成的 seed SQL。
